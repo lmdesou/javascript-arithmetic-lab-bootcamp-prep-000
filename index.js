@@ -15,6 +15,7 @@ function divide(a, b) {
 }
 
 var n = 672
+
 function inc(n) {
   return (n++)
 }
