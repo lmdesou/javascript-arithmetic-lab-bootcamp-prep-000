@@ -1,5 +1,5 @@
-var a = 10
-var b = 2
+var a = "10"
+var b = "2"
 
 function add() {
 }
