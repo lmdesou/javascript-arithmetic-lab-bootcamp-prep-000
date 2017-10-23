@@ -1,4 +1,4 @@
-var a = 10
+var a = 0x2328
 var b = 2
 
 function add(a, b) {
