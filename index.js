@@ -14,8 +14,6 @@ function divide(a, b) {
   return (a / b)
 }
 
-var n = 672
-
-function inc(n) {
+function inc(a) {
   return (n++)
 }
