@@ -24,5 +24,4 @@ function makeInt(a) {
 return (a.toString())
 }
 function parseInt(0x2328, 10) {
-  return (0)
 }
